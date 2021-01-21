@@ -14,11 +14,11 @@ subtitle: 개발자로 성장하기 위한 새로운 도전기
 ![acecounter](http://www.acecounter.com/image/img/bar_1_v2.gif)
 
 <br>
-<span style="color:#252525">임성빈</span><span style="color:red">:</span><span style="color:#252525"> </span><span style="color:#7d7d7d">루키달콤TF</span><span style="color:#cccccc"> l <span style="color:#7d7d7d">사원</span></span>
+**<span style="color:#252525">임성빈 </span>****<span style="color:red">:</span>****<span style="color:#252525"> </span>**<span style="color:#7d7d7d">루키달콤TF </span><span style="color:#cccccc"> l <span style="color:#7d7d7d">사원</span></span>
 
-<span style="color:#464646">엔에이치엔고도(주)</span>
+**<span style="color:#464646">엔에이치엔고도(주)</span>**
 
-<span style="color:#7d7d7d">Tel</span><span style="color:#7d7d7d"> waiting...   Mobile top secret   Email [seongbin-lim@godo.co.kr](seongbin-lim@godo.co.kr)<span style="color:#7d7d7d"></span></span>
+**<span style="color:#7d7d7d">Tel</span>**<span style="color:#7d7d7d"> waiting   **Mobile** Top Secret   **Email** <u>[seongbin-lim@godo.co.kr](mailto:borakim724@godo.co.kr)</u><span style="color:#7d7d7d"> </span></span>
 
 <span style="color:#7d7d7d">서울시 구로구 디지털로 26길 72, 2층 NHN고도</span>
 
