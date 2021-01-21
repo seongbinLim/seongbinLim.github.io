@@ -14,7 +14,7 @@ subtitle: 개발자로 성장하기 위한 새로운 도전기
 ![acecounter](http://www.acecounter.com/image/img/bar_1_v2.gif)
 
 <br>
-**<span style="color:#252525">임성빈 </span>****<span style="color:red">:</span>****<span style="color:#252525"> </span>**<span style="color:#7d7d7d">루키달콤TF </span><span style="color:#cccccc"> l <span style="color:#7d7d7d">사원</span></span>
+<span style="color:#252525">임성빈 </span><span style="color:red">:</span><span style="color:#252525"> </span><span style="color:#7d7d7d">루키달콤TF </span><span style="color:#cccccc"> l <span style="color:#7d7d7d">사원</span></span>
 
 **<span style="color:#464646">엔에이치엔고도(주)</span>**
 
