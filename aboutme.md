@@ -11,14 +11,15 @@ subtitle: 개발자로 성장하기 위한 새로운 도전기
 - 운동 시작하기
 - Seed money 만들기
 
-acecounter
-임성빈 : 루키달콤TF l 사원
+![acecounter](http://www.acecounter.com/image/img/bar_1_v2.gif)
 
- 
+<br>
+**<span style="color:#252525">임성빈 </span>****<span style="color:red">:</span>****<span style="color:#252525"> </span>**<span style="color:#7d7d7d">루키달콤TF </span><span style="color:#cccccc">l <span style="color:#7d7d7d">대리</span></span>
 
-엔에이치엔고도(주)
+**<span style="color:#464646">엔에이치엔고도(주)</span>**
 
-Mobile it's top secret   Email seongbin-lim@godo.co.kr 
+**<span style="color:#7d7d7d">Tel</span>**<span style="color:#7d7d7d"> waiting...   **Mobile** top secret   **Email** <u>[seongbin-lim@godo.co.kr](mailto:seongbin-lim@godo.co.kr)</u><span style="color:#7d7d7d"> </span></span>
 
-서울시 구로구 디지털로 26길 72, 2층 NHN고도
-www.godo.co.kr 
+<span style="color:#7d7d7d">서울시 구로구 디지털로 26길 72, 2층 NHN고도</span>
+
+<span style="color:#333333"><span style="color:#999999">[![고도 홈 바로가기](http://img.godo.co.kr/common/logo_mailsign_NHNgodo.png)](http://www.godo.co.kr/)</span> </span>
