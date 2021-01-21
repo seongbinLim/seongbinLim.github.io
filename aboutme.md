@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 개발자로 성장하기 위한 새로운 도전기
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+앞으로 1년 동안의 지키고 싶은 목표
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 개발서적 1달에 1권
+- 개인 Git 3days 1commit
+- 운동 시작하기
+- Seed money 만들기
 
-What else do you need?
+acecounter
+임성빈 : 루키달콤TF l 사원
 
-### My story
+ 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+엔에이치엔고도(주)
+
+Mobile it's top secret   Email seongbin-lim@godo.co.kr 
+
+서울시 구로구 디지털로 26길 72, 2층 NHN고도
+www.godo.co.kr 
