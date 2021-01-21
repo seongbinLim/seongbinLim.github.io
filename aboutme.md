@@ -18,7 +18,7 @@ subtitle: 개발자로 성장하기 위한 새로운 도전기
 
 **<span style="color:#464646">엔에이치엔고도(주)</span>**
 
-**<span style="color:#7d7d7d">Tel</span>**<span style="color:#7d7d7d"> waiting   **Mobile** Top Secret   **Email** <u>[seongbin-lim@godo.co.kr](seongbin-lim@godo.co.kr)</u><span style="color:#7d7d7d"> </span></span>
+**<span style="color:#7d7d7d">Tel</span>**<span style="color:#7d7d7d"> waiting   **Mobile** Top Secret   **Email** [seongbin-lim@godo.co.kr](mailto:seongbin-lim@godo.co.kr)<span style="color:#7d7d7d"> </span></span>
 
 <span style="color:#7d7d7d">서울시 구로구 디지털로 26길 72, 2층 NHN고도</span>
 
